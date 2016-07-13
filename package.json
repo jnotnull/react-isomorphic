@@ -1,0 +1,27 @@
+{
+  "name": "webpack-node-react-example",
+  "version": "1.0.0",
+  "description": "Example of using react with node and webpack",
+  "main": "./src/server.js",
+  "scripts": {
+    "test": "echo 'All fine :)'"
+  },
+  "author": "Timur <DeTeam> Amirov",
+  "license": "MIT",
+  "dependencies": {
+    "css-loader": "^0.9.0",
+    "enhanced-require": "0.4.2",
+    "express": "^4.10.4",
+    "json-loader": "^0.5.1",
+    "jsx-loader": "^0.12.2",
+    "node-jsx": "^0.12.4",
+    "raw-loader": "^0.5.1",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "sass-loader": "^3.2.2",
+    "style-loader": "^0.8.2",
+    "ejs": "~0.8.5",
+    "webpack": "^1.4.13",
+    "webpack-dev-middleware": "^1.0.11"
+  }
+}
