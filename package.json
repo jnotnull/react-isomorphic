@@ -1,12 +1,12 @@
 {
-  "name": "webpack-node-react-example",
+  "name": "react isomorphic",
   "version": "1.0.0",
-  "description": "Example of using react with node and webpack",
+  "description": "Example of isomorphic using react with node and webpack",
   "main": "./src/server.js",
   "scripts": {
     "test": "echo 'All fine :)'"
   },
-  "author": "Timur <DeTeam> Amirov",
+  "author": "jnotnull",
   "license": "MIT",
   "dependencies": {
     "css-loader": "^0.9.0",
