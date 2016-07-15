@@ -5,7 +5,9 @@
 运行：
 
 1. 安装依赖 `npm install`
-2. 执行启动 `node src/app.js`
+2. 执行启动 
+	1. 开发模式 `npm run start:dev`
+	2. 生产模式 `npm run start:prd`
 
 说明：
 
