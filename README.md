@@ -1,4 +1,4 @@
-# isomorphic-react
+# react-isomorphic
 
 基于react的同构项目
 
