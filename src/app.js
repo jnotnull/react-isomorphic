@@ -1,10 +1,3 @@
-/**
- * @fileoverview Program entry
- * @author wliao <wliao@Ctrip.com>
- * @example
- * production: node app
- * developmet: grunt app or grunt app --debug
- */
 var cluster = require('cluster');
 var numCPUs = require('os').cpus().length;
 
