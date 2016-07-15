@@ -13,13 +13,12 @@ var webpackRequire = require('enhanced-require')(module, {
     }
 });
 
-// ReactApp = React.createFactory(require('../components/ReactApp'));
 var app = React.createElement(webpackRequire('jsx!../index.jsx'));
 
 module.exports = function(server) {
 
 	server.get('/', function (req, res) {
-	    var appString = ReactDomServer.renderToString(app);
+	    var appString = ReactDomServer.renderToString(app);//renderToStaticMarkup(app);
 
 	    res.render('index.ejs', {reactOutput: appString});
 	});

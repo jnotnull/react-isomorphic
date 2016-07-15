@@ -4,7 +4,8 @@
   "description": "Example of isomorphic using react with node and webpack",
   "main": "./src/server.js",
   "scripts": {
-    "test": "echo 'All fine :)'"
+    "start:dev": "export NODE_ENV=development && node src/server.js",
+    "start:prd": "export NODE_ENV=production && node src/server.js"
   },
   "author": "jnotnull",
   "license": "MIT",

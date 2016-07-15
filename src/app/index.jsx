@@ -17,6 +17,18 @@ module.exports = React.createClass({
         };
     },
 
+    shouldUpdateReactComponent: function (prevElement, nextElement) {
+        console.dir(prevElement)
+    },
+
+    componentWillMount: function(argument) {
+        console.log("componentWillMount");
+    },
+
+    componentDidMount: function(argument) {
+        console.log("componentDidMount");
+    },
+
     render: function () {
         console.log("render");
         return <BaseLayout>
