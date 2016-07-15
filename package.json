@@ -1,5 +1,5 @@
 {
-  "name": "react isomorphic",
+  "name": "react-isomorphic",
   "version": "1.0.0",
   "description": "Example of isomorphic using react with node and webpack",
   "main": "./src/server.js",
