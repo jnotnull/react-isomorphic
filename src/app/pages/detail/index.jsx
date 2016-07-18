@@ -2,7 +2,7 @@ var React = require('react');
 
 var allPeople = require('../../data/people.js');
 
-var BaseLayout = require('../../layouts/base.jsx');
+var BaseLayout = require('./layouts/base.jsx');
 var GeneralInfo = require('./general-info/index.jsx');
 var Contacts = require('./contacts/index.jsx');
 var Person = require('./person/index.jsx');

@@ -26,12 +26,12 @@ require('./app/routes/core-routes.js')(server);
 
 // 设置中间件
 server.use(webpackMiddleware(webpack(webpackConfig), {
-    noInfo: false,
-    quiet: false,
-    publicPath: '/assets/',
-    stats: {
-        color: true
-    }
+  noInfo: false,
+  quiet: false,
+  publicPath: '/assets/',
+  stats: {
+    color: true
+  }
 }));
 
 // 设置监听端口

@@ -2,10 +2,14 @@ var path = require('path');
 var webpack = require('webpack');
 
 module.exports = {
-    entry: './src/client.js',
+    entry: {
+        index: './src/index.js',
+        detail: './src/detail.js',
+        center: './src/center.js',
+    },
     output: {
-        path: '/dist/',
-        filename: 'bundle.js'
+        path: '/dist',
+        filename: 'bundle.[name].js'
     },
     resolve: {
         extensions: ['', '.js', '.jsx', '.json', '.scss']

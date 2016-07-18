@@ -1,0 +1,45 @@
+@import '../../../colors';
+
+.test-app {
+    max-width: 1024px;
+    margin: auto;
+    background-color: white;
+    border-left: 5px solid $dark-bg + 100;
+    border-right: 5px solid $dark-bg + 100;
+    height: 100vh;
+
+
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: stretch;
+
+        &.container-horizontal {
+            flex-direction: row;
+        }
+
+        &.container-vertical {
+            flex-direction: column;
+        }
+
+        & > .content-holder {
+            padding: 1em;
+        }
+    }
+
+    header {
+        padding: 0.1em 0.1em;
+
+        background-color: $active-bg;
+        color: $active-title;
+        border-bottom: 1vh solid $active-bg - 20;
+
+        text-align: center;
+
+        h1 {
+            font-size: 8vmin;
+            margin: 1vh 1vw;
+        }
+    }
+}
