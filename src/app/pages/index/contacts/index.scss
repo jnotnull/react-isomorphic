@@ -1,0 +1,41 @@
+$color-inbox: #0072b1;
+$color-pinterest: #cb2027;
+$color-instagram: #517fa4;
+
+.contacts-block {
+    ul {
+        list-style: none;
+        margin: 1em 0;
+        padding: 0;
+        text-align: left;
+
+        li {
+            display: inline-block;
+            margin: 0 1em;
+        }
+
+        .icon-pinterest {
+            color: $color-pinterest;
+
+            &:hover {
+                color: $color-pinterest + 30;
+            }
+        }
+
+        .icon-inbox {
+            color: $color-inbox;
+
+            &:hover {
+                color: $color-inbox + 30;
+            }
+        }
+
+        .icon-instagram {
+            color: $color-instagram;
+
+            &:hover {
+                color: $color-instagram + 30;
+            }
+        }
+    }
+}

@@ -5,26 +5,48 @@ var webpackRequire = require('enhanced-require')(module, {
     recursive: true,
     extensions: ['', '.js', '.jsx', '.json', '.scss'],
     resolve: {
-        loaders: [
-            { test: /\.jsx$/, loader: 'jsx' },
-            { test: /\.json$/, loader: 'json' },
-            { test: /\.scss$/, loader: 'raw' }
-        ]
+        loaders: [{
+            test: /\.jsx$/,
+            loader: 'jsx'
+        }, {
+            test: /\.json$/,
+            loader: 'json'
+        }, {
+            test: /\.scss$/,
+            loader: 'raw'
+        }]
     }
 });
 
-var app = React.createElement(webpackRequire('jsx!../index.jsx'));
-
 module.exports = function(server) {
 
-	server.get('/', function (req, res) {
-	    var appString = ReactDomServer.renderToString(app);//renderToStaticMarkup(app);
+    server.get('/', function(req, res) {
+        var app = React.createElement(webpackRequire('jsx!../pages/index/index.jsx'));
+        var appString = ReactDomServer.renderToString(app);
 
-	    res.render('index.ejs', {reactOutput: appString});
-	});
+        res.render('index.ejs', {
+            reactOutput: appString
+        });
+    });
 
-	server.get('/application.css', function (req, res) {
-	    res.status(200).send('');
-	});
+    server.get('/detail/*.html', function(req, res) {
+        var app = React.createElement(webpackRequire('jsx!../pages/detail/index.jsx'));
+
+        var appString = ReactDomServer.renderToString(app);
+
+        res.render('detail.ejs', {
+            reactOutput: appString
+        });
+    });
+
+    server.get('/center.html', function(req, res) {
+        var app = React.createElement(webpackRequire('jsx!../pages/center/index.jsx'));
+
+        var appString = ReactDomServer.renderToString(app);
+
+        res.render('center.ejs', {
+            reactOutput: appString
+        });
+    });
 
 };
