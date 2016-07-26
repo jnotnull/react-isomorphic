@@ -8,11 +8,15 @@ module.exports = {
         center: './src/center.js',
     },
     output: {
-        path: '/dist',
+        path: '/dist/',
         filename: 'bundle.[name].js'
     },
     resolve: {
-        extensions: ['', '.js', '.jsx', '.json', '.scss']
+        extensions: ['', '.js', '.jsx', '.json', '.scss'],
+        alias: {
+            'react': 'react-lite',
+            'react-dom': 'react-lite'
+        }
     },
     module: {
         loaders: [{

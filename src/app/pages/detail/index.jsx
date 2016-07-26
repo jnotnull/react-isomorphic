@@ -30,7 +30,7 @@ module.exports = React.createClass({
     },
 
     render: function () {
-        console.log("render");
+        console.log("render detail");
         return <BaseLayout>
             <GeneralInfo />
             <Contacts />

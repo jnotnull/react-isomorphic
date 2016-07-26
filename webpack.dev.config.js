@@ -12,7 +12,11 @@ module.exports = {
         filename: 'bundle.[name].js'
     },
     resolve: {
-        extensions: ['', '.js', '.jsx', '.json', '.scss']
+        extensions: ['', '.js', '.jsx', '.json', '.scss'],
+        alias: {
+            'react': 'react-lite',
+            'react-dom': 'react-lite'
+        }
     },
     module: {
         loaders: [{

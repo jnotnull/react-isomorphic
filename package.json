@@ -5,7 +5,8 @@
   "main": "./src/server.js",
   "scripts": {
     "start:dev": "export NODE_ENV=development && node src/server.js",
-    "start:prd": "export NODE_ENV=production && node src/server.js"
+    "start:prd": "export NODE_ENV=production && node src/server.js",
+    "build": "export NODE_ENV=production && webpack -p --config webpack.prd.config.js --progress --colors"
   },
   "author": "jnotnull",
   "license": "MIT",
@@ -24,6 +25,7 @@
     "raw-loader": "^0.5.1",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
+    "react-lite": "^0.15.14",
     "react-router": "^2.5.2",
     "sass-loader": "^3.2.2",
     "style-loader": "^0.8.2",

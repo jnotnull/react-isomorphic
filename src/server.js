@@ -10,10 +10,10 @@ var isDev = process.env.NODE_ENV === 'development';
 
 // 根据不同环境加载不同配置
 var webpackConfig
-if (isDev){
-	webpackConfig = require('../webpack.dev.config.js');
+if (isDev) {
+  webpackConfig = require('../webpack.dev.config.js');
 } else {
-	webpackConfig = require('../webpack.prd.config.js');
+  webpackConfig = require('../webpack.prd.config.js');
 }
 
 // 设置模板引擎
@@ -36,8 +36,8 @@ server.use(webpackMiddleware(webpack(webpackConfig), {
 
 // 设置监听端口
 server.listen(3000, function(err) {
-  if(err) {
+  if (err) {
     console.log(err);
   }
-  console.log('Listening on ' + process.env.NODE_ENV );
+  console.log('Listening on 3000 ' + process.env.NODE_ENV);
 });
