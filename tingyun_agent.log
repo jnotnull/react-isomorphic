@@ -1483,3 +1483,2283 @@
 	
 2016-09-17 11:39:25.776 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
 	
+2016-09-17 11:40:11.954 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:40:14.821 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:40:20.847 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:40:21.776 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:40:22.301 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:40:22.359 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:40:22.971 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:40:24.752 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:40:25.252 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:40:27.082 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:41:11.961 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:41:12.643 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:41:20.855 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:41:21.379 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:41:21.784 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:41:22.318 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:41:22.978 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:41:23.499 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:41:25.259 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:41:25.797 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:42:11.968 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:42:12.503 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:42:20.862 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:42:21.398 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:42:21.791 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:42:22.337 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:42:22.985 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:42:23.524 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:42:25.266 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:42:25.798 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:43:11.974 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:43:12.641 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:43:20.870 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:43:21.402 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:43:21.798 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:43:22.321 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:43:22.993 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:43:23.531 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:43:25.272 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:43:25.802 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:44:11.980 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:44:12.525 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:44:20.876 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:44:21.420 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:44:21.802 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:44:22.348 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:44:23.000 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:44:23.508 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:44:25.278 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:44:25.812 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:45:11.987 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:45:12.682 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:45:20.882 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:45:21.403 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:45:21.810 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:45:22.537 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:45:23.007 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:45:23.519 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:45:25.283 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:45:25.800 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:46:11.994 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:46:12.641 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:46:20.888 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:46:21.647 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:46:21.815 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:46:22.323 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:46:23.014 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:46:23.672 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:46:25.290 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:46:26.110 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:47:11.996 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:47:12.651 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:47:20.894 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:47:21.476 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:47:21.819 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:47:22.325 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:47:23.019 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:47:23.554 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:47:25.294 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:47:25.821 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:48:12.004 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:48:12.574 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:48:20.897 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:48:21.824 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:48:21.921 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:48:22.362 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:48:23.022 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:48:23.550 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:48:25.301 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:48:25.825 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:49:12.010 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:49:12.621 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:49:20.904 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:49:21.378 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:49:21.828 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:49:22.370 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:49:23.024 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:49:24.561 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:49:25.309 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:49:25.752 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:50:12.017 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:50:12.497 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:50:20.910 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:50:21.452 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:50:21.836 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:50:22.313 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:50:23.029 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:50:23.544 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:50:25.314 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:50:25.838 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:51:12.024 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:51:12.694 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:51:20.918 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:51:21.398 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:51:21.843 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:51:23.034 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:51:23.501 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:51:25.320 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:51:25.838 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:51:26.289 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:52:12.030 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:52:12.851 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:52:20.922 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:52:21.847 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:52:22.285 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:52:22.355 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:52:23.038 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:52:23.698 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:52:25.325 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:52:26.041 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:53:12.038 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:53:12.543 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:53:20.930 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:53:21.387 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:53:21.855 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:53:22.378 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:53:23.044 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:53:23.587 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:53:25.331 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:53:26.005 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:54:12.043 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:54:12.546 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:54:20.937 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:54:21.462 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:54:21.862 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:54:22.358 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:54:23.050 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:54:23.565 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:54:25.337 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:54:25.918 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:55:12.052 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:55:12.702 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:55:20.940 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:55:21.451 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:55:21.869 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:55:22.297 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:55:23.054 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:55:23.430 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:55:25.341 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:55:25.858 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:56:12.056 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:56:12.544 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:56:20.945 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:56:21.444 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:56:21.876 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:56:22.347 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:56:23.061 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:56:23.530 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:56:25.345 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:56:25.853 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:57:12.059 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:57:12.679 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:57:20.950 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:57:21.429 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:57:21.884 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:57:22.510 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:57:23.070 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:57:23.593 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:57:25.351 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:57:25.903 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:58:12.063 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:58:12.569 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:58:20.957 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:58:21.669 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:58:21.890 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:58:22.341 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:58:23.075 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:58:23.673 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:58:25.358 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:58:25.991 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:59:12.067 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 11:59:12.710 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:59:20.962 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 11:59:21.494 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:59:21.897 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 11:59:22.344 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:59:23.083 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 11:59:23.616 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:59:25.360 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 11:59:25.838 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:00:12.073 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:00:12.495 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:00:20.967 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:00:21.449 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:00:21.901 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:00:22.390 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:00:23.085 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:00:23.641 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:00:25.365 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:00:25.861 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:01:12.081 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:01:12.798 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:01:20.971 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:01:21.542 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:01:21.908 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:01:22.484 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:01:23.092 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:01:23.692 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:01:25.372 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:01:25.990 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:02:12.084 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:02:12.657 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:02:20.978 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:02:21.536 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:02:21.914 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:02:22.522 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:02:23.097 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:02:23.705 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:02:25.378 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:02:26.011 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:03:12.091 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:03:15.301 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:03:20.984 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:03:21.593 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:03:21.921 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:03:23.100 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:03:23.715 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:03:25.016 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:03:25.381 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:03:25.992 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:04:12.098 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:04:12.760 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:04:20.992 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:04:21.925 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:04:22.302 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:04:22.372 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:04:23.107 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:04:23.791 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:04:25.386 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:04:26.025 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:05:12.105 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:05:12.701 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:05:20.999 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:05:21.409 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:05:21.929 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:05:22.219 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:05:23.113 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:05:23.516 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:05:25.394 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:05:25.888 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:06:12.114 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:06:12.665 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:06:21.007 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:06:21.399 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:06:21.936 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:06:22.363 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:06:23.120 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:06:23.454 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:06:25.401 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:06:25.953 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:07:12.122 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:07:12.700 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:07:21.015 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:07:21.532 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:07:21.941 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:07:22.391 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:07:23.127 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:07:23.617 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:07:25.408 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:07:25.899 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:08:12.129 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:08:12.667 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:08:21.021 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:08:21.569 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:08:21.945 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:08:22.521 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:08:23.130 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:08:23.689 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:08:25.416 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:08:25.982 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:09:12.137 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:09:13.593 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:09:21.025 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:09:21.625 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:09:21.951 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:09:22.642 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:09:23.135 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:09:23.600 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:09:25.421 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:09:25.834 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:10:12.143 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:10:12.599 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:10:21.031 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:10:21.956 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:10:22.372 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:10:22.592 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:10:23.142 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:10:23.664 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:10:25.424 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:10:26.181 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:11:12.152 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:11:12.662 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:11:21.039 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:11:21.562 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:11:21.962 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:11:22.511 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:11:23.145 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:11:23.701 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:11:25.429 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:11:25.973 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:12:12.155 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:12:12.803 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:12:21.043 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:12:21.574 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:12:21.965 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:12:22.472 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:12:23.149 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:12:23.634 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:12:25.435 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:12:25.915 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:13:12.159 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:13:12.771 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:13:21.049 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:13:21.545 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:13:21.970 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:13:22.471 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:13:23.154 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:13:23.696 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:13:25.439 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:13:25.946 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:14:12.167 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:14:12.672 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:14:21.055 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:14:21.786 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:14:21.973 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:14:22.518 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:14:23.163 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:14:23.710 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:14:25.444 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:14:25.951 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:15:12.174 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:15:12.836 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:15:21.062 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:15:21.583 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:15:21.980 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:15:22.629 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:15:23.166 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:15:23.673 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:15:25.451 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:15:25.967 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:16:12.181 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:16:12.845 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:16:21.065 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:16:21.726 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:16:21.984 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:16:22.465 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:16:23.173 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:16:23.676 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:16:25.456 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:16:26.158 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:17:12.187 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:17:12.840 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:17:21.070 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:17:21.710 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:17:21.987 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:17:22.510 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:17:23.181 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:17:23.688 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:17:25.463 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:17:25.996 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:18:12.194 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:18:12.704 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:18:21.077 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:18:21.612 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:18:21.990 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:18:22.539 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:18:23.188 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:18:23.604 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:18:25.468 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:18:25.729 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:19:12.202 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:19:13.554 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:19:21.085 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:19:21.437 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:19:21.996 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:19:22.311 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:19:23.195 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:19:23.516 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:19:25.473 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:19:25.712 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:20:12.211 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:20:12.607 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:20:21.089 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:20:21.581 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:20:22.003 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:20:22.360 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:20:23.201 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:20:23.631 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:20:25.477 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:20:25.756 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:21:12.213 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:21:12.626 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:21:21.092 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:21:21.587 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:21:22.008 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:21:22.686 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:21:23.207 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:21:23.727 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:21:25.484 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:21:26.036 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:22:12.221 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:22:12.869 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:22:21.095 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:22:21.804 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:22:22.015 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:22:22.475 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:22:23.212 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:22:24.647 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:22:25.491 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:22:26.255 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:23:12.229 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:23:12.590 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:23:21.102 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:23:21.479 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:23:22.019 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:23:22.218 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:23:23.219 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:23:23.510 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:23:25.498 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:23:25.850 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:24:12.236 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:24:12.766 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:24:21.106 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:24:21.644 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:24:22.023 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:24:22.492 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:24:23.226 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:24:23.785 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:24:25.506 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:24:26.163 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:25:12.242 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:25:12.861 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:25:21.108 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:25:21.634 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:25:22.029 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:25:22.555 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:25:23.233 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:25:23.745 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:25:25.510 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:25:26.050 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:26:12.245 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:26:12.750 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:26:21.117 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:26:21.700 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:26:22.036 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:26:22.692 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:26:23.240 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:26:23.814 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:26:25.513 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:26:25.977 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:27:12.253 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:27:12.606 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:27:21.120 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:27:21.394 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:27:22.044 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:27:22.442 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:27:23.245 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:27:23.933 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:27:25.516 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:27:26.011 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:28:12.266 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:28:12.472 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:28:21.131 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:28:21.635 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:28:22.053 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:28:22.335 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:28:23.253 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:28:23.885 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:28:25.525 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:28:25.914 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:29:12.272 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:29:12.692 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:29:21.139 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:29:21.780 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:29:22.064 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:29:22.448 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:29:23.264 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:29:23.730 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:29:25.538 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:29:25.859 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:30:12.283 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:30:12.896 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:30:21.151 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:30:21.669 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:30:22.071 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:30:22.510 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:30:23.267 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:30:23.729 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:30:25.547 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:30:26.075 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:31:12.287 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:31:12.737 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:31:21.159 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:31:21.516 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:31:22.083 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:31:22.702 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:31:23.277 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:31:23.780 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:31:25.557 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:31:26.168 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:32:12.295 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:32:14.315 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:32:21.166 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:32:21.698 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:32:22.094 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:32:22.605 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:32:23.286 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:32:23.799 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:32:25.567 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:32:26.189 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:33:12.300 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:33:12.704 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:33:21.169 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:33:21.490 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:33:22.105 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:33:22.484 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:33:23.299 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:33:23.633 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:33:25.572 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:33:25.804 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:34:12.313 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:34:12.886 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:34:21.173 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:34:21.854 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:34:22.112 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:34:22.600 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:34:23.308 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:34:23.816 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:34:25.583 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:34:26.256 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:35:12.316 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:35:13.032 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:35:21.183 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:35:21.421 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:35:22.116 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:35:22.336 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:35:23.317 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:35:23.493 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:35:25.586 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:35:25.857 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:36:12.326 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:36:12.939 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:36:21.191 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:36:21.739 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:36:22.128 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:36:22.505 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:36:23.327 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:36:23.838 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:36:25.591 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:36:25.883 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:37:12.335 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:37:12.997 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:37:21.193 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:37:21.728 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:37:22.134 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:37:22.680 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:37:23.332 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:37:23.950 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:37:25.597 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:37:26.132 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:38:12.343 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:38:12.982 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:38:21.205 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:38:21.761 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:38:22.144 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:38:22.693 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:38:23.344 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:38:23.847 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:38:25.608 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:38:25.983 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:39:12.352 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:39:12.888 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:39:21.211 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:39:21.562 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:39:22.152 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:39:22.774 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:39:23.347 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:39:23.862 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:39:25.612 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:39:26.097 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:40:12.365 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:40:13.079 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:40:21.223 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:40:21.920 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:40:22.154 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:40:22.700 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:40:23.360 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:40:24.072 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:40:25.615 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:40:26.293 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:41:12.376 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:41:12.896 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:41:21.236 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:41:21.745 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:41:22.159 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:41:22.702 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:41:23.370 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:41:23.838 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:41:25.621 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:41:26.317 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:42:12.385 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:42:12.915 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:42:21.244 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:42:21.771 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:42:22.167 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:42:22.740 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:42:23.381 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:42:24.006 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:42:25.633 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:42:26.165 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:43:12.393 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:43:13.109 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:43:21.254 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:43:21.759 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:43:22.176 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:43:22.723 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:43:23.392 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:43:23.934 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:43:25.639 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:43:26.184 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:44:12.403 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:44:13.213 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:44:21.262 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:44:21.926 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:44:22.181 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:44:22.709 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:44:23.402 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:44:23.941 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:44:25.650 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:44:26.167 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:45:12.411 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:45:12.985 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:45:21.273 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:45:21.814 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:45:22.194 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:45:22.858 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:45:23.413 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:45:23.939 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:45:25.662 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:45:26.208 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:46:12.420 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:46:12.958 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:46:21.283 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:46:22.148 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:46:22.205 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:46:22.734 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:46:23.425 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:46:24.147 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:46:25.668 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:46:26.376 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:47:12.433 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:47:13.005 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:47:21.294 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:47:21.849 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:47:22.215 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:47:22.727 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:47:23.434 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:47:23.962 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:47:25.680 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:47:26.202 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:48:12.438 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:48:12.969 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:48:21.297 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:48:21.833 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:48:22.226 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:48:23.445 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:48:23.761 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:48:23.949 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:48:25.686 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:48:26.215 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:49:12.445 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:49:13.114 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:49:21.308 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:49:21.842 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:49:22.237 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:49:22.754 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:49:23.456 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:49:23.975 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:49:25.696 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:49:26.232 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:50:12.454 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:50:13.293 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:50:21.313 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:50:21.816 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:50:22.249 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:50:22.720 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:50:23.466 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:50:23.999 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:50:25.702 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:50:26.226 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:51:12.464 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:51:12.955 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:51:21.317 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:51:21.786 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:51:22.257 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:51:23.477 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:51:23.555 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:51:24.006 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:51:25.715 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:51:26.143 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:52:12.472 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:52:12.575 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:52:21.331 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:52:21.656 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:52:22.266 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:52:22.457 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:52:23.480 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:52:24.097 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:52:25.720 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:52:26.229 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:53:12.484 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:53:12.777 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:53:21.341 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:53:21.494 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:53:22.275 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:53:22.751 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:53:23.490 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:53:23.823 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:53:25.727 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:53:26.199 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:54:12.489 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:54:12.992 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:54:21.346 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:54:21.854 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:54:22.287 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:54:22.823 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:54:23.502 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:54:23.854 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:54:25.735 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:54:25.840 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:55:12.502 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:55:12.601 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:55:21.355 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:55:21.452 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:55:22.291 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:55:22.391 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:55:23.509 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:55:23.707 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:55:25.740 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:55:25.851 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:56:12.513 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:56:12.661 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:56:21.367 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:56:21.679 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:56:22.301 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:56:22.399 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:56:23.517 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:56:23.618 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:56:25.753 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:56:25.968 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:57:12.520 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:57:12.710 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:57:21.377 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:57:21.517 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:57:22.307 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:57:22.497 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:57:23.526 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:57:23.770 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:57:25.762 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:57:26.062 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:58:12.529 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:58:12.849 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:58:21.389 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:58:21.881 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:58:22.319 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:58:22.727 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:58:23.536 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:58:23.866 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:58:25.772 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:58:25.941 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:59:12.541 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 12:59:12.966 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:59:21.393 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 12:59:21.874 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:59:22.326 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 12:59:22.703 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:59:23.540 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 12:59:23.876 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 12:59:25.780 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 12:59:25.979 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:00:12.547 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:00:12.755 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:00:21.402 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:00:21.632 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:00:22.335 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:00:22.573 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:00:23.545 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:00:23.758 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:00:25.783 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:00:26.192 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:01:12.550 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:01:12.696 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:01:21.413 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:01:21.634 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:01:22.338 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:01:22.695 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:01:23.557 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:01:24.042 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:01:25.794 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:01:26.325 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:02:12.553 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:02:12.810 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:02:21.424 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:02:21.900 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:02:22.342 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:02:22.502 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:02:23.561 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:02:23.956 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:02:25.806 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:02:26.040 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:03:12.566 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:03:13.264 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:03:21.436 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:03:21.981 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:03:22.353 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:03:23.013 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:03:23.573 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:03:23.791 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:03:25.813 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:03:25.969 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:04:12.578 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:04:13.063 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:04:21.439 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:04:22.365 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:04:22.632 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:04:22.775 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:04:23.587 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:04:24.437 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:04:25.826 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:04:26.522 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:05:12.583 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:05:13.180 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:05:21.450 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:05:21.857 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:05:22.373 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:05:22.873 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:05:23.596 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:05:23.937 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:05:25.833 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:05:26.094 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:06:12.586 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:06:12.826 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:06:21.460 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:06:21.743 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:06:22.377 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:06:22.632 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:06:23.604 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:06:23.801 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:06:25.842 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:06:26.014 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:07:12.596 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:07:14.702 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:07:21.469 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:07:22.386 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:07:23.614 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:07:25.080 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:07:25.847 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:07:27.384 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:07:27.617 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:07:28.202 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:08:12.602 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:08:12.801 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:08:21.482 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:08:21.839 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:08:22.392 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:08:22.923 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:08:23.624 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:08:24.136 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:08:25.859 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:08:25.998 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:09:12.605 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:09:12.732 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:09:21.489 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:09:21.913 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:09:22.404 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:09:22.952 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:09:23.635 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:09:23.764 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:09:25.867 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:09:26.107 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:10:12.615 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:10:12.727 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:10:21.502 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:10:21.956 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:10:22.416 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:10:22.539 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:10:23.645 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:10:24.201 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:10:25.879 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:10:26.416 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:11:12.622 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:11:12.732 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:11:21.512 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:11:21.846 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:11:22.422 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:11:22.898 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:11:23.654 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:11:24.042 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:11:25.888 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:11:26.097 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:12:12.625 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:12:12.874 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:12:21.519 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:12:21.659 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:12:22.431 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:12:22.608 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:12:23.668 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:12:23.977 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:12:25.900 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:12:26.328 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:13:12.639 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:13:12.888 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:13:21.529 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:13:21.688 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:13:22.438 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:13:22.657 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:13:23.670 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:13:23.876 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:13:25.909 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:13:26.192 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:14:12.642 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:14:12.880 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:14:21.535 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:14:21.935 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:14:22.445 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:14:22.886 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:14:23.676 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:14:24.080 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:14:25.914 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:14:26.303 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:15:12.653 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:15:13.164 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:15:21.546 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:15:22.042 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:15:22.456 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:15:23.153 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:15:23.687 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:15:24.201 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:15:25.926 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:15:27.155 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:16:12.659 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:16:13.113 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:16:21.556 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:16:21.781 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:16:22.460 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:16:22.619 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:16:23.689 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:16:23.939 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:16:25.938 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:16:26.185 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:17:12.666 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:17:13.229 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:17:21.567 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:17:21.902 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:17:22.470 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:17:22.869 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:17:23.693 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:17:24.195 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:17:25.945 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:17:26.335 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:18:12.676 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:18:13.367 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:18:21.571 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:18:21.974 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:18:22.476 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:18:22.958 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:18:23.704 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:18:24.185 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:18:25.953 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:18:26.480 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:19:12.687 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:19:13.212 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:19:21.578 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:19:21.688 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:19:22.487 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:19:22.641 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:19:23.713 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:19:23.819 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:19:25.962 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:19:26.225 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:20:12.694 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:20:12.903 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:20:21.588 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:20:21.786 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:20:22.493 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:20:22.778 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:20:23.724 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:20:23.961 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:20:25.965 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:20:26.137 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:21:12.704 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:21:13.271 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:21:21.595 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:21:21.771 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:21:22.501 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:21:23.151 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:21:23.736 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:21:24.262 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:21:25.976 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:21:26.395 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:22:12.716 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:22:12.858 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:22:21.606 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:22:21.832 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:22:22.506 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:22:22.673 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:22:23.747 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:22:23.972 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:22:25.987 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:22:26.337 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:23:12.724 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:23:12.909 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:23:21.613 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:23:21.772 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:23:22.514 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:23:22.641 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:23:23.757 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:23:23.934 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:23:25.999 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:23:26.114 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:24:12.734 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:24:13.571 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:24:21.623 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:24:22.133 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:24:22.522 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:24:23.042 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:24:23.764 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:24:24.261 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:24:26.007 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:24:26.441 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:25:12.737 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:25:12.984 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:25:21.630 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:25:21.843 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:25:22.531 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:25:22.797 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:25:23.767 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:25:24.050 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:25:26.012 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:25:26.521 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:26:12.748 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:26:12.877 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:26:21.642 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:26:21.830 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:26:22.542 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:26:22.683 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:26:23.776 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:26:23.918 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:26:26.025 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:26:26.205 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:27:12.757 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:27:12.864 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:27:21.651 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:27:22.370 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:27:22.549 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:27:22.692 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:27:23.788 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:27:23.896 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:27:26.031 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:27:26.146 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:28:12.763 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:28:13.427 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:28:21.656 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:28:22.311 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:28:22.551 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:28:23.064 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:28:23.790 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:28:25.542 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:28:26.036 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:28:26.748 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:29:12.768 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:29:13.053 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:29:21.664 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:29:22.109 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:29:22.559 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:29:23.001 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:29:23.795 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:29:24.268 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:29:26.041 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:29:26.523 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:30:12.770 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:30:13.054 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:30:21.665 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:30:22.082 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:30:22.564 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:30:22.990 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:30:23.797 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:30:24.177 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:30:26.048 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:30:26.299 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:31:12.776 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:31:12.917 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:31:21.673 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:31:22.191 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:31:22.571 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:31:23.053 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:31:23.803 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:31:24.264 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:31:26.053 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:31:26.227 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:32:12.783 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:32:12.951 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:32:21.677 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:32:22.016 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:32:22.577 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:32:22.824 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:32:23.809 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:32:23.970 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:32:26.061 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:32:26.239 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:33:12.789 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	
+2016-09-17 13:33:13.081 (pid:74614,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:33:21.683 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435247
+	
+2016-09-17 13:33:22.120 (pid:74616,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:33:22.581 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435273
+	
+2016-09-17 13:33:23.188 (pid:74618,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:33:23.816 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435309
+	
+2016-09-17 13:33:24.317 (pid:74617,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 13:33:26.068 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435377
+	
+2016-09-17 13:33:26.195 (pid:74615,uid:501) INFO    <server.request-method> Response from /upload
+	

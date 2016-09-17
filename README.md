@@ -11,7 +11,7 @@
 	3. 生产模式 `script/run`
 
 ##特性
-1. 支持客服端渲染组件。在各自组件中添加如下代码：
+1. 支持客户端渲染组件。在各自组件中添加如下代码：
 
 		 statics: {
 		    clientRender: true
@@ -29,7 +29,7 @@
 			 }, 'index')
 		 };
 
-4. 如果浏览器端出现如下错误，请确实是否没有编译，导致服务端代码和客服端代码不一致
+4. 如果浏览器端出现如下错误，请确认是否没有编译，导致服务端代码和客服端代码不一致
 
 		Warning: React attempted to reuse markup in a container but the checksum was invalid. This generally means that you are using server rendering and the markup generated on the server was not what the client was expecting. React injected new markup to compensate which works but you have lost many of the benefits of server rendering. Instead, figure out why the markup being generated is different on the client or server
 
