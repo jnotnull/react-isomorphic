@@ -1,0 +1,1047 @@
+
+2016-09-17 10:42:50.522 (pid:74130,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 10:42:58.101 (pid:74130,uid:501) INFO    <agent> Starting login...
+2016-09-17 10:42:58.102 (pid:74130,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:42:59.180 (pid:74130,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 10:43:06.099 (pid:74130,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:43:07.298 (pid:74130,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 10:42:58.302 (pid:74133,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 10:43:05.477 (pid:74133,uid:501) INFO    <agent> Starting login...
+2016-09-17 10:43:05.479 (pid:74133,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:42:58.277 (pid:74134,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 10:43:05.514 (pid:74134,uid:501) INFO    <agent> Starting login...
+2016-09-17 10:43:05.517 (pid:74134,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:42:58.291 (pid:74136,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 10:43:05.509 (pid:74136,uid:501) INFO    <agent> Starting login...
+2016-09-17 10:43:05.512 (pid:74136,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:42:58.295 (pid:74135,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 10:43:05.456 (pid:74135,uid:501) INFO    <agent> Starting login...
+2016-09-17 10:43:05.459 (pid:74135,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:43:13.471 (pid:74134,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 10:43:22.163 (pid:74134,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:43:13.225 (pid:74133,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 10:43:22.166 (pid:74133,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:43:13.966 (pid:74136,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 10:43:22.389 (pid:74136,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:43:23.126 (pid:74134,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 10:43:23.184 (pid:74133,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 10:43:16.048 (pid:74135,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 10:43:23.257 (pid:74135,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:43:23.279 (pid:74136,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 10:43:24.206 (pid:74135,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 10:44:07.315 (pid:74130,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639383871
+	
+2016-09-17 10:44:08.068 (pid:74130,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:44:23.145 (pid:74134,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639384270
+	
+2016-09-17 10:44:23.200 (pid:74133,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639384273
+	
+2016-09-17 10:44:23.293 (pid:74136,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639384281
+	
+2016-09-17 10:44:23.793 (pid:74136,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:44:23.913 (pid:74133,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:44:24.216 (pid:74135,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639384308
+	
+2016-09-17 10:44:24.534 (pid:74134,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:44:24.765 (pid:74135,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:45:07.313 (pid:74130,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639383871
+	
+2016-09-17 10:45:07.950 (pid:74130,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:45:23.143 (pid:74134,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639384270
+	
+2016-09-17 10:45:23.201 (pid:74133,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639384273
+	
+2016-09-17 10:45:23.294 (pid:74136,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639384281
+	
+2016-09-17 10:45:23.675 (pid:74134,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:45:23.749 (pid:74133,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:45:23.822 (pid:74136,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:45:24.218 (pid:74135,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639384308
+	
+2016-09-17 10:45:24.748 (pid:74135,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:45:58.242 (pid:74187,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 10:46:03.685 (pid:74187,uid:501) INFO    <agent> Starting login...
+2016-09-17 10:46:03.687 (pid:74187,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:46:04.465 (pid:74187,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 10:46:11.176 (pid:74187,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:46:12.966 (pid:74187,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 10:46:03.898 (pid:74190,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 10:46:11.221 (pid:74190,uid:501) INFO    <agent> Starting login...
+2016-09-17 10:46:11.223 (pid:74190,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:46:03.860 (pid:74189,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 10:46:11.253 (pid:74189,uid:501) INFO    <agent> Starting login...
+2016-09-17 10:46:11.258 (pid:74189,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:46:03.902 (pid:74191,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 10:46:11.252 (pid:74191,uid:501) INFO    <agent> Starting login...
+2016-09-17 10:46:11.255 (pid:74191,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:46:03.860 (pid:74188,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 10:46:11.262 (pid:74188,uid:501) INFO    <agent> Starting login...
+2016-09-17 10:46:11.265 (pid:74188,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:46:17.213 (pid:74190,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 10:46:24.889 (pid:74190,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:46:25.803 (pid:74190,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 10:46:19.631 (pid:74188,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 10:46:26.980 (pid:74188,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:46:19.636 (pid:74189,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 10:46:27.230 (pid:74189,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:46:19.624 (pid:74191,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 10:46:27.236 (pid:74191,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:46:27.945 (pid:74188,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 10:46:29.147 (pid:74191,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 10:46:29.167 (pid:74189,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 10:47:12.977 (pid:74187,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388536
+	
+2016-09-17 10:47:13.630 (pid:74187,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:47:25.816 (pid:74190,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388861
+	
+2016-09-17 10:47:26.361 (pid:74190,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:47:27.951 (pid:74188,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388919
+	
+2016-09-17 10:47:28.466 (pid:74188,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:47:29.159 (pid:74191,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388941
+	
+2016-09-17 10:47:29.175 (pid:74189,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388944
+	
+2016-09-17 10:47:29.709 (pid:74189,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:47:30.195 (pid:74191,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:48:12.981 (pid:74187,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388536
+	
+2016-09-17 10:48:13.491 (pid:74187,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:48:25.817 (pid:74190,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388861
+	
+2016-09-17 10:48:26.341 (pid:74190,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:48:27.957 (pid:74188,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388919
+	
+2016-09-17 10:48:28.488 (pid:74188,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:48:29.161 (pid:74191,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388941
+	
+2016-09-17 10:48:29.179 (pid:74189,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388944
+	
+2016-09-17 10:48:29.703 (pid:74189,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:48:30.161 (pid:74191,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:49:12.987 (pid:74187,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388536
+	
+2016-09-17 10:49:13.676 (pid:74187,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:49:25.820 (pid:74190,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388861
+	
+2016-09-17 10:49:26.435 (pid:74190,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:49:27.963 (pid:74188,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388919
+	
+2016-09-17 10:49:28.531 (pid:74188,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:49:29.167 (pid:74191,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388941
+	
+2016-09-17 10:49:29.184 (pid:74189,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388944
+	
+2016-09-17 10:49:29.690 (pid:74191,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:49:29.709 (pid:74189,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:50:12.990 (pid:74187,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388536
+	
+2016-09-17 10:50:13.635 (pid:74187,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:50:25.826 (pid:74190,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388861
+	
+2016-09-17 10:50:26.347 (pid:74190,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:50:27.968 (pid:74188,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388919
+	
+2016-09-17 10:50:28.489 (pid:74188,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:50:29.174 (pid:74191,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388941
+	
+2016-09-17 10:50:29.191 (pid:74189,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388944
+	
+2016-09-17 10:50:29.693 (pid:74191,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:50:29.730 (pid:74189,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:51:12.996 (pid:74187,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388536
+	
+2016-09-17 10:51:13.849 (pid:74187,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:51:25.834 (pid:74190,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388861
+	
+2016-09-17 10:51:27.973 (pid:74188,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388919
+	
+2016-09-17 10:51:28.665 (pid:74190,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:51:29.179 (pid:74191,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388941
+	
+2016-09-17 10:51:29.198 (pid:74189,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388944
+	
+2016-09-17 10:51:29.846 (pid:74191,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:51:29.881 (pid:74189,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:51:30.411 (pid:74188,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:52:13.001 (pid:74187,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388536
+	
+2016-09-17 10:52:13.515 (pid:74187,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:52:25.839 (pid:74190,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388861
+	
+2016-09-17 10:52:26.354 (pid:74190,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:52:27.979 (pid:74188,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388919
+	
+2016-09-17 10:52:28.615 (pid:74188,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:52:29.187 (pid:74191,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388941
+	
+2016-09-17 10:52:29.203 (pid:74189,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388944
+	
+2016-09-17 10:52:29.623 (pid:74191,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:52:29.635 (pid:74189,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:53:13.007 (pid:74187,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388536
+	
+2016-09-17 10:53:13.512 (pid:74187,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:53:25.843 (pid:74190,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388861
+	
+2016-09-17 10:53:26.385 (pid:74190,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:53:27.986 (pid:74188,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388919
+	
+2016-09-17 10:53:28.706 (pid:74188,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:53:29.193 (pid:74191,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388941
+	
+2016-09-17 10:53:29.206 (pid:74189,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388944
+	
+2016-09-17 10:53:29.722 (pid:74189,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:53:29.724 (pid:74191,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:54:13.011 (pid:74187,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388536
+	
+2016-09-17 10:54:13.651 (pid:74187,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:54:25.847 (pid:74190,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388861
+	
+2016-09-17 10:54:26.358 (pid:74190,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:54:27.991 (pid:74188,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388919
+	
+2016-09-17 10:54:28.465 (pid:74188,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:54:29.199 (pid:74191,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388941
+	
+2016-09-17 10:54:29.212 (pid:74189,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388944
+	
+2016-09-17 10:54:29.716 (pid:74191,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:54:29.741 (pid:74189,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:55:13.016 (pid:74187,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388536
+	
+2016-09-17 10:55:13.457 (pid:74187,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:55:25.854 (pid:74190,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388861
+	
+2016-09-17 10:55:26.361 (pid:74190,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:55:27.998 (pid:74188,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388919
+	
+2016-09-17 10:55:28.468 (pid:74188,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:55:29.207 (pid:74191,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388941
+	
+2016-09-17 10:55:29.219 (pid:74189,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388944
+	
+2016-09-17 10:55:29.862 (pid:74191,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:55:29.864 (pid:74189,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:56:13.021 (pid:74187,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388536
+	
+2016-09-17 10:56:13.700 (pid:74187,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:56:25.860 (pid:74190,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388861
+	
+2016-09-17 10:56:26.366 (pid:74190,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:56:28.002 (pid:74188,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388919
+	
+2016-09-17 10:56:28.527 (pid:74188,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:56:29.209 (pid:74191,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388941
+	
+2016-09-17 10:56:29.224 (pid:74189,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639388944
+	
+2016-09-17 10:56:29.730 (pid:74189,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:56:30.216 (pid:74191,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:56:53.630 (pid:74257,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 10:56:58.326 (pid:74257,uid:501) INFO    <agent> Starting login...
+2016-09-17 10:56:58.327 (pid:74257,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:56:59.127 (pid:74257,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 10:57:05.368 (pid:74257,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:57:06.242 (pid:74257,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 10:56:58.492 (pid:74261,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 10:57:04.327 (pid:74261,uid:501) INFO    <agent> Starting login...
+2016-09-17 10:57:04.329 (pid:74261,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:56:58.468 (pid:74258,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 10:57:04.339 (pid:74258,uid:501) INFO    <agent> Starting login...
+2016-09-17 10:57:04.342 (pid:74258,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:56:58.490 (pid:74260,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 10:57:04.522 (pid:74260,uid:501) INFO    <agent> Starting login...
+2016-09-17 10:57:04.524 (pid:74260,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:56:58.499 (pid:74259,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 10:57:04.409 (pid:74259,uid:501) INFO    <agent> Starting login...
+2016-09-17 10:57:04.411 (pid:74259,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:57:10.993 (pid:74258,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 10:57:17.308 (pid:74258,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:57:11.096 (pid:74260,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 10:57:17.335 (pid:74260,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:57:11.256 (pid:74259,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 10:57:17.343 (pid:74259,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:57:10.906 (pid:74261,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 10:57:17.346 (pid:74261,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 10:57:18.137 (pid:74258,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 10:57:18.189 (pid:74260,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 10:57:18.199 (pid:74261,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 10:57:18.269 (pid:74259,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 10:58:06.252 (pid:74257,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405016
+	
+2016-09-17 10:58:06.910 (pid:74257,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:58:18.142 (pid:74258,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405317
+	
+2016-09-17 10:58:18.203 (pid:74260,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405318
+	
+2016-09-17 10:58:18.205 (pid:74261,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405319
+	
+2016-09-17 10:58:18.281 (pid:74259,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405320
+	
+2016-09-17 10:58:18.651 (pid:74258,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:58:18.712 (pid:74260,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:58:18.712 (pid:74261,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:58:18.773 (pid:74259,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:59:06.257 (pid:74257,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405016
+	
+2016-09-17 10:59:06.779 (pid:74257,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:59:18.149 (pid:74258,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405317
+	
+2016-09-17 10:59:18.205 (pid:74260,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405318
+	
+2016-09-17 10:59:18.208 (pid:74261,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405319
+	
+2016-09-17 10:59:18.284 (pid:74259,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405320
+	
+2016-09-17 10:59:18.665 (pid:74258,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:59:18.734 (pid:74261,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:59:18.736 (pid:74260,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 10:59:18.802 (pid:74259,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:00:06.262 (pid:74257,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405016
+	
+2016-09-17 11:00:06.933 (pid:74257,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:00:18.154 (pid:74258,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405317
+	
+2016-09-17 11:00:18.210 (pid:74260,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405318
+	
+2016-09-17 11:00:18.213 (pid:74261,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405319
+	
+2016-09-17 11:00:18.287 (pid:74259,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405320
+	
+2016-09-17 11:00:18.667 (pid:74258,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:00:18.727 (pid:74261,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:00:18.732 (pid:74260,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:00:18.823 (pid:74259,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:01:06.266 (pid:74257,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405016
+	
+2016-09-17 11:01:06.757 (pid:74257,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:01:18.160 (pid:74258,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405317
+	
+2016-09-17 11:01:18.215 (pid:74260,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405318
+	
+2016-09-17 11:01:18.218 (pid:74261,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405319
+	
+2016-09-17 11:01:18.291 (pid:74259,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405320
+	
+2016-09-17 11:01:18.674 (pid:74258,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:01:18.709 (pid:74260,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:01:18.712 (pid:74261,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:01:18.792 (pid:74259,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:02:06.270 (pid:74257,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405016
+	
+2016-09-17 11:02:07.089 (pid:74257,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:02:18.165 (pid:74258,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405317
+	
+2016-09-17 11:02:18.223 (pid:74260,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405318
+	
+2016-09-17 11:02:18.225 (pid:74261,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405319
+	
+2016-09-17 11:02:18.297 (pid:74259,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405320
+	
+2016-09-17 11:02:18.852 (pid:74258,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:02:18.895 (pid:74260,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:02:18.897 (pid:74261,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:02:18.971 (pid:74259,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:03:06.274 (pid:74257,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405016
+	
+2016-09-17 11:03:06.922 (pid:74257,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:03:18.170 (pid:74258,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405317
+	
+2016-09-17 11:03:18.228 (pid:74260,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405318
+	
+2016-09-17 11:03:18.232 (pid:74261,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405319
+	
+2016-09-17 11:03:18.301 (pid:74259,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405320
+	
+2016-09-17 11:03:18.728 (pid:74258,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:03:18.746 (pid:74260,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:03:18.794 (pid:74261,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:03:18.843 (pid:74259,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:04:06.281 (pid:74257,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405016
+	
+2016-09-17 11:04:07.322 (pid:74257,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:04:18.175 (pid:74258,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405317
+	
+2016-09-17 11:04:18.233 (pid:74260,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405318
+	
+2016-09-17 11:04:18.239 (pid:74261,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405319
+	
+2016-09-17 11:04:18.304 (pid:74259,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405320
+	
+2016-09-17 11:04:18.714 (pid:74258,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:04:18.782 (pid:74260,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:04:18.787 (pid:74261,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:04:18.837 (pid:74259,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:05:06.287 (pid:74257,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405016
+	
+2016-09-17 11:05:06.974 (pid:74257,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:05:18.181 (pid:74258,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405317
+	
+2016-09-17 11:05:18.240 (pid:74260,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405318
+	
+2016-09-17 11:05:18.247 (pid:74261,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405319
+	
+2016-09-17 11:05:18.312 (pid:74259,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639405320
+	
+2016-09-17 11:05:18.696 (pid:74258,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:05:18.750 (pid:74260,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:05:18.759 (pid:74261,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:05:19.360 (pid:74259,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:05:27.045 (pid:74369,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:05:31.079 (pid:74369,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:05:31.080 (pid:74369,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:05:31.907 (pid:74369,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:05:37.186 (pid:74369,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:05:38.117 (pid:74369,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:05:31.221 (pid:74373,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:05:36.312 (pid:74373,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:05:36.314 (pid:74373,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:05:31.233 (pid:74370,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:05:36.408 (pid:74370,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:05:36.410 (pid:74370,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:05:31.244 (pid:74372,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:05:36.323 (pid:74372,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:05:36.332 (pid:74372,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:05:31.231 (pid:74371,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:05:36.393 (pid:74371,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:05:36.402 (pid:74371,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:05:59.038 (pid:74405,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:06:01.140 (pid:74405,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:06:01.141 (pid:74405,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:06:02.016 (pid:74405,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:06:06.757 (pid:74405,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:06:07.628 (pid:74405,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:06:01.283 (pid:74409,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:06:05.740 (pid:74409,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:06:05.742 (pid:74409,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:06:01.293 (pid:74407,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:06:05.823 (pid:74407,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:06:05.825 (pid:74407,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:06:01.291 (pid:74408,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:06:05.884 (pid:74408,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:06:05.889 (pid:74408,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:06:01.262 (pid:74406,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:06:05.905 (pid:74406,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:06:05.908 (pid:74406,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:06:10.545 (pid:74409,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:06:14.448 (pid:74409,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:06:10.989 (pid:74406,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:06:15.217 (pid:74406,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:06:10.932 (pid:74407,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:06:15.309 (pid:74407,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:06:10.924 (pid:74408,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:06:15.372 (pid:74408,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:06:16.243 (pid:74407,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:06:16.312 (pid:74408,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:06:16.743 (pid:74406,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:06:17.844 (pid:74409,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:07:07.640 (pid:74405,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639418503
+	
+2016-09-17 11:07:08.351 (pid:74405,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:07:16.252 (pid:74407,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639418710
+	
+2016-09-17 11:07:16.321 (pid:74408,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639418712
+	
+2016-09-17 11:07:16.753 (pid:74406,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639418722
+	
+2016-09-17 11:07:16.772 (pid:74407,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:07:16.808 (pid:74408,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:07:17.335 (pid:74406,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:07:17.856 (pid:74409,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639418750
+	
+2016-09-17 11:07:18.847 (pid:74409,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:07:40.126 (pid:74433,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:07:43.528 (pid:74433,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:07:43.530 (pid:74433,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:07:45.766 (pid:74433,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:07:51.102 (pid:74433,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:07:52.178 (pid:74433,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:07:43.666 (pid:74434,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:07:48.530 (pid:74434,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:07:48.538 (pid:74434,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:07:43.692 (pid:74435,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:07:48.585 (pid:74435,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:07:48.587 (pid:74435,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:07:43.680 (pid:74436,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:07:48.572 (pid:74436,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:07:48.575 (pid:74436,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:07:43.692 (pid:74437,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:07:48.584 (pid:74437,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:07:48.587 (pid:74437,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:07:54.086 (pid:74434,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:07:58.287 (pid:74434,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:07:54.228 (pid:74436,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:07:58.656 (pid:74436,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:07:55.810 (pid:74435,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:07:59.390 (pid:74435,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:07:56.546 (pid:74437,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:07:59.622 (pid:74437,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:08:00.274 (pid:74436,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:08:00.530 (pid:74437,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:08:00.732 (pid:74434,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:08:00.833 (pid:74435,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:08:52.185 (pid:74433,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639421084
+	
+2016-09-17 11:08:52.746 (pid:74433,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:09:00.283 (pid:74436,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639421272
+	
+2016-09-17 11:09:00.538 (pid:74437,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639421280
+	
+2016-09-17 11:09:00.740 (pid:74434,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639421261
+	
+2016-09-17 11:09:00.819 (pid:74436,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:09:00.845 (pid:74435,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639421275
+	
+2016-09-17 11:09:01.073 (pid:74437,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:09:01.269 (pid:74434,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:09:01.382 (pid:74435,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:09:52.189 (pid:74433,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639421084
+	
+2016-09-17 11:09:52.859 (pid:74433,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:10:16.552 (pid:74473,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:10:20.146 (pid:74473,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:10:20.147 (pid:74473,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:10:22.052 (pid:74473,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:10:27.489 (pid:74473,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:10:29.632 (pid:74473,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:10:20.287 (pid:74474,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:10:25.163 (pid:74474,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:10:25.166 (pid:74474,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:10:20.304 (pid:74477,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:10:25.243 (pid:74477,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:10:25.247 (pid:74477,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:10:20.297 (pid:74476,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:10:25.274 (pid:74476,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:10:25.276 (pid:74476,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:10:20.308 (pid:74475,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:10:25.226 (pid:74475,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:10:25.228 (pid:74475,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:10:30.665 (pid:74474,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:10:34.738 (pid:74474,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:10:30.935 (pid:74477,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:10:35.244 (pid:74477,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:10:30.947 (pid:74476,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:10:35.282 (pid:74476,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:10:35.744 (pid:74474,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:10:36.158 (pid:74477,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:10:33.257 (pid:74475,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:10:36.432 (pid:74475,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:10:38.041 (pid:74475,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:10:39.732 (pid:74476,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:11:29.640 (pid:74473,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639425017
+	
+2016-09-17 11:11:31.232 (pid:74473,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:11:51.059 (pid:74512,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:11:54.138 (pid:74512,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:11:54.139 (pid:74512,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:11:54.975 (pid:74512,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:12:00.389 (pid:74512,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:12:01.364 (pid:74512,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:11:54.293 (pid:74516,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:11:59.380 (pid:74516,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:11:59.382 (pid:74516,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:11:54.287 (pid:74515,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:11:59.408 (pid:74515,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:11:59.415 (pid:74515,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:11:54.296 (pid:74513,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:11:59.558 (pid:74513,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:11:59.563 (pid:74513,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:11:54.296 (pid:74514,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:11:59.503 (pid:74514,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:11:59.508 (pid:74514,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:12:04.938 (pid:74513,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:12:08.522 (pid:74513,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:12:04.988 (pid:74514,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:12:08.891 (pid:74514,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:12:09.814 (pid:74514,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:12:06.034 (pid:74515,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:12:09.868 (pid:74515,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:12:10.645 (pid:74513,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:12:07.486 (pid:74516,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:12:10.667 (pid:74516,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:12:10.966 (pid:74515,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:12:11.608 (pid:74516,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:12:55.707 (pid:74540,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:12:59.713 (pid:74540,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:12:59.714 (pid:74540,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:13:00.876 (pid:74540,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:13:06.147 (pid:74540,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:13:08.331 (pid:74540,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:12:59.873 (pid:74544,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:13:04.716 (pid:74544,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:13:04.718 (pid:74544,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:12:59.855 (pid:74541,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:13:04.662 (pid:74541,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:13:04.666 (pid:74541,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:12:59.860 (pid:74543,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:13:04.637 (pid:74543,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:13:04.641 (pid:74543,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:12:59.867 (pid:74542,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:13:04.641 (pid:74542,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:13:04.644 (pid:74542,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:13:10.221 (pid:74541,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:13:14.510 (pid:74541,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:13:10.332 (pid:74543,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:13:14.665 (pid:74543,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:13:11.274 (pid:74544,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:13:15.135 (pid:74544,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:13:11.915 (pid:74542,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:13:15.420 (pid:74542,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:13:16.880 (pid:74544,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:13:16.992 (pid:74542,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:13:17.365 (pid:74541,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:13:17.370 (pid:74543,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:13:57.289 (pid:74571,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:14:00.753 (pid:74571,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:14:00.754 (pid:74571,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:14:01.596 (pid:74571,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:14:07.261 (pid:74571,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:14:08.930 (pid:74571,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:14:00.889 (pid:74572,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:14:00.907 (pid:74575,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:14:06.101 (pid:74572,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:14:06.122 (pid:74575,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:14:06.124 (pid:74575,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:14:06.103 (pid:74572,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:14:00.916 (pid:74573,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:14:06.135 (pid:74573,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:14:06.138 (pid:74573,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:14:00.894 (pid:74574,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:14:06.158 (pid:74574,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:14:06.160 (pid:74574,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:14:12.795 (pid:74574,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:14:16.078 (pid:74574,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:14:13.369 (pid:74572,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:14:16.975 (pid:74572,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:14:13.896 (pid:74575,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:14:17.471 (pid:74575,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:14:14.000 (pid:74573,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:14:17.704 (pid:74573,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:14:18.252 (pid:74574,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:14:18.421 (pid:74575,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:14:18.655 (pid:74572,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:14:19.376 (pid:74573,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:15:08.938 (pid:74571,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639430325
+	
+2016-09-17 11:15:09.606 (pid:74571,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:15:18.263 (pid:74574,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639430564
+	
+2016-09-17 11:15:18.431 (pid:74575,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639430569
+	
+2016-09-17 11:15:18.668 (pid:74572,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639430576
+	
+2016-09-17 11:15:18.776 (pid:74574,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:15:18.952 (pid:74575,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:15:19.195 (pid:74572,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:15:19.388 (pid:74573,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639430604
+	
+2016-09-17 11:15:19.917 (pid:74573,uid:501) INFO    <server.request-method> Response from /upload
+	
+2016-09-17 11:16:07.413 (pid:74587,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:16:11.896 (pid:74587,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:16:11.898 (pid:74587,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:16:12.727 (pid:74587,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:16:18.242 (pid:74587,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:16:19.172 (pid:74587,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:16:12.053 (pid:74591,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:16:17.381 (pid:74591,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:16:17.384 (pid:74591,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:16:12.042 (pid:74590,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:16:17.298 (pid:74590,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:16:17.301 (pid:74590,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:16:12.058 (pid:74589,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:16:17.379 (pid:74589,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:16:17.383 (pid:74589,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:16:12.035 (pid:74588,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:16:17.339 (pid:74588,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:16:17.341 (pid:74588,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:16:22.937 (pid:74588,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:16:22.920 (pid:74590,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:16:29.737 (pid:74588,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:16:29.737 (pid:74590,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:16:22.938 (pid:74589,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:16:29.740 (pid:74589,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:16:25.109 (pid:74591,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:16:30.345 (pid:74591,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:16:30.675 (pid:74589,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:16:31.120 (pid:74590,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:16:31.140 (pid:74588,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:16:31.332 (pid:74591,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:17:03.199 (pid:74614,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:17:05.346 (pid:74614,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:17:05.348 (pid:74614,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:17:07.247 (pid:74614,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:17:13.128 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:17:14.899 (pid:74614,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:17:05.501 (pid:74618,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:17:10.992 (pid:74618,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:17:10.996 (pid:74618,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:17:05.502 (pid:74617,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:17:11.091 (pid:74617,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:17:11.094 (pid:74617,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:17:05.490 (pid:74616,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:17:10.950 (pid:74616,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:17:10.956 (pid:74616,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:17:05.509 (pid:74615,uid:501) INFO    <index> TingYun node version 1.1.11 Starting...
+2016-09-17 11:17:11.024 (pid:74615,uid:501) INFO    <agent> Starting login...
+2016-09-17 11:17:11.027 (pid:74615,uid:501) INFO    <server.request-method> Post https://redirect.networkbench.com/getRedirectHost?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:17:17.162 (pid:74618,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:17:22.607 (pid:74618,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:17:17.274 (pid:74617,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:17:22.754 (pid:74617,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:17:17.354 (pid:74615,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:17:22.806 (pid:74615,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:17:17.307 (pid:74616,uid:501) INFO    <server.request-method> Response from /getRedirectHost
+	
+2016-09-17 11:17:22.851 (pid:74616,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/initAgentApp?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe
+	
+2016-09-17 11:17:23.802 (pid:74616,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:17:24.736 (pid:74618,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:17:25.927 (pid:74617,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:17:28.207 (pid:74615,uid:501) INFO    <server.request-method> Response from /initAgentApp
+	
+2016-09-17 11:18:14.912 (pid:74614,uid:501) INFO    <server.request-method> Post https://dcs1.networkbench.com/upload?version=1.2.0&licenseKey=180eb263101c449d743a62c3ad353dfe&appSessionKey=639435017
+	

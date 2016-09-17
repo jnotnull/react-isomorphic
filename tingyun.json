@@ -1,0 +1,15 @@
+{
+  "agent_log_level": "info",
+  "app_name": [
+    "lehumall"
+  ],
+  "licenseKey": "180eb263101c449d743a62c3ad353dfe",
+  "host": "redirect.networkbench.com",
+  "port": 443,
+  "ssl": true,
+  "proxy": "",
+  "proxy_host": "",
+  "proxy_port": "",
+  "proxy_user": "",
+  "proxy_pass": ""
+}
